@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 27fb23b321b46db44b48fae70d4e44fc
+labels:
+- fantasy
+- loot
+- audio
+- pack
+- click
+- error
+- glitches
+- potions
+- alchemy
+- sound
+timeCreated: 1461247362
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

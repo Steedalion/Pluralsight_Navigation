@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 96560b173770b0e4287a54d3f21b954f
+labels:
+- powerups
+- runes
+- magic
+- fantasy
+- loot
+- audio
+- pack
+- potions
+- sound
+- effects
+timeCreated: 1461247420
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

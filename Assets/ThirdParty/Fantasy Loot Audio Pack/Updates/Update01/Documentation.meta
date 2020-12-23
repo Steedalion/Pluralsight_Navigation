@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9b0f6584a6f8322438a615370eea1981
+labels:
+- fantasy
+- loot
+- audio
+- pack
+- potions
+- alchemy
+- hourglass
+- item
+- object
+- clock
+- timer
+- christmas
+- time
+- activate
+folderAsset: yes
+timeCreated: 1461249363
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

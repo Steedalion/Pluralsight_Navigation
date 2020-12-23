@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: a1de73cda9af78f468b3dc1af0323386
+labels:
+- bag
+- pouches
+- close
+- open
+- fantasy
+- loot
+- audio
+- pack
+- sound
+- effects
+timeCreated: 1461247428
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: e8a5f682194cb734dabc3c3a971ec1fd
+labels:
+- fantasy
+- loot
+- audio
+- pack
+- spray
+- dig
+- craft
+- chest
+timeCreated: 1461247464
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5914eb09bcc18c0489b5bb3a8c7057f2, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  HeroTemplate: {fileID: 11400000, guid: 949ef82fd21c49a4b86ebedec3120a5e, type: 2}
+  ValidCommand: {fileID: 8300000, guid: 03be57f54cdb1fc46a15b3456628082a, type: 3}
+  InvalidCommand: {fileID: 8300000, guid: 3a4828290c755d14185bf83040ea9df2, type: 3}
+  MainSnapshot: {fileID: 24500003, guid: 8c58859e6b530cd41861d1b2682d3cef, type: 2}
+  SilenceSnapshot: {fileID: 245583949714218514, guid: 8c58859e6b530cd41861d1b2682d3cef,
+    type: 2}
+  CameraOffset: {x: 5.4, y: 5.2, z: -2.34}
+  SmoothDamp: 0.2
+  AngleBetweenPositions: 45
+  MonsterDistance: 1.5
+  AngleBetweenHoldingPositions: 22.5
+  MonsterHoldingDistance: 3.5
+  MaxConcurrentSpawns: 5
+  DefaultCursor: {fileID: 2800000, guid: 8d0c155ee63be9e4c9b6ff383dc1f738, type: 3}
+  DefaultCursorHotspot: {x: 2, y: 2}
+  MoveCursor: {fileID: 2800000, guid: d68cc7a1fa9f2f749a27e3972fa98068, type: 3}
+  MoveCursorHotspot: {x: 16, y: 16}
+  AttackCursor: {fileID: 2800000, guid: c1d26ddd0c773b14a90f4334e3b27c1e, type: 3}
+  AttackCursorHotspot: {x: 2, y: 2}
+  DoorwayCursor: {fileID: 2800000, guid: 1158fed49f9e7294581f052fd857637c, type: 3}
+  DoorwayCursorHotspot: {x: 24, y: 16}
+  ClickAknowledgePrefab: {fileID: 1938708694864456, guid: 75138322f1b614c43a55edf38c6a9a77,
+    type: 2}
+  SwordImpactPrefab: {fileID: 1372571220248678, guid: 74ab0fba2ffe40544a877c54e5c481ae,
+    type: 2}
+  MaxDeadMonsterCount: 35
+  MonsterUIPrefab: {fileID: 114887036727693084, guid: 0cc8365c6bc947640aab093623b2b869,
+    type: 2}
+  HeroUIPrefab: {fileID: 114883262042746236, guid: a349316fb950be644bacca16f5eb75fa,
+    type: 2}
+  HighlightMaterials:
+  - {fileID: 2100000, guid: d4a1816c69ab88f4b99cdeb3b9d90f58, type: 2}
+  - {fileID: 2100000, guid: f93467c2503eac84d90d5e524665b12b, type: 2}
+  TargettedMaterials:
+  - {fileID: 2100000, guid: d4a1816c69ab88f4b99cdeb3b9d90f58, type: 2}
+  - {fileID: 2100000, guid: f93467c2503eac84d90d5e524665b12b, type: 2}
+  WalkableLayerName: Walkable
+  NonWalkableLayerName: NonWalkable
+  MonsterLayerName: Monster
+  InteractableLayerName: Interactable
+  NavMeshDistance: 0.2
+  DefaultWalkableLayer: {fileID: 11400000, guid: 8c31289e4c7bd90469e8d73246a8146d,
+    type: 2}
+  DefaultNonWalkableLayer: {fileID: 11400000, guid: 18304133de633314d84adca8a46c86b3,
+    type: 2}

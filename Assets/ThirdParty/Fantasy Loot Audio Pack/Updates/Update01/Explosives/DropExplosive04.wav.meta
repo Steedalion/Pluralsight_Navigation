@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 15da83b524ee4fa4f870e4aaa7d9e0fa
+labels:
+- wick
+- explosives
+- fantasy
+- loot
+- audio
+- pack
+- potions
+- alchemy
+- chest
+timeCreated: 1461247351
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
